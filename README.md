@@ -1,1 +1,1 @@
-# master-folio-public
+# Public directory for all works
