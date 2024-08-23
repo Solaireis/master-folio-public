@@ -6,4 +6,9 @@
  - to address my long term weakness of not having a portfolio that i could quickly access and submit
 
 ## Directory Tree:
-WIP
+- Diploma Certificate
+- Diploma Club Activities
+- Diploma Competitions
+- Diploma Course Work
+- Newspaper Showcases
+- Testimonies By academic instructors
